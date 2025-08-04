@@ -1,10 +1,13 @@
-# 🕒 Induction Week Overview
 
-| Day   | Highlights                                  |
-|-------|---------------------------------------------|
-| Day 1 | Shabad Kirtan, Inaugural Ceremony, Dept Visit |
-| Day 2 | Proficiency Test, Scholarship & Wellness Seminars |
-| Day 3 | Expert Lectures, Causmic Club Introduction   |
+## 🗓️ Induction Program Overview
+
+| Day   | Highlights                                                   |
+|--------|--------------------------------------------------------------|
+| Day 1 | Shabad Kirtan, Inaugural Ceremony, Department Visit          |
+| Day 2 | Proficiency Test, Scholarship Seminar, Food & Wellness Talk  |
+| Day 3 | Expert Lectures, Causmic Club Introduction                   |
+| Day 4 | P2P C++ Class, BEEE Intro, Human Values Talk, Club Overview  |
+
 
 
 
@@ -131,14 +134,59 @@ It’s an open and inclusive space where we can participate in various activitie
 The club aims to nurture creative thinking, teamwork, and leadership qualities, helping us grow not just as engineers but as confident individuals.
 
 
- 
-   
+ # 🏫DAY 4:-
+ *(4th AUGUST-monday)*
 
+## Table of Contents
+1. [👩‍💻 P2P C++ Coding Session](#-p2p-c-coding-session)
+2. [🔌 BEEE Introductory Lecture](#-beee-introductory-lecture)
+3. [🍽️ Lunch Break & Campus Walk](#-lunch-break--campus-walk)
+4. [🧠 Human Values Session by Dr. Priya Darshani](#-human-values-session-by-dr-priya-darshani)
+5. [✨ Causmic Club Full Introduction](#-causmic-club-full-introduction)
 
+## P2P LECTURE
+### 9:30-10:30
 
+The day began with a P2P (Peer-to-Peer) learning session, where two seniors from 3rd year, 
+Gurleen Kaur and Jagdeep Kaur, taught us the basics of C++ programming. We also practiced writing code in Visual Studio, which made the class really interesting and interactive.
+Personally, I enjoyed writing the code and exploring the logic behind it. 
+The way they explained each concept made it easy to follow, and the class had a friendly and supportive vibe.
 
+## BEEE LECTURE
+**(BALWINDER SINGH SIR)**
+### 10:30-11:30 
 
+We attended our BEEE (Basic Electrical and Electronics Engineering) class. 
+Balwinder Singh Sir gave us an overview of the syllabus and introduced
+the books that will be covered during the course. 
+Since most students didn’t have the textbooks yet, the class was kept introductory,
+and the actual syllabus will begin in the upcoming sessions. 
 
+## BREAK
+### 11:30-12:30 
+
+We then had a one-hour lunch break, during which many of us took a short walk around the college campus.
+The campus is quite big and has a refreshing atmosphere, 
+so it was nice to explore more of it with friends and batchmates.
+
+## UNIVERSAL HUMAN VALUES
+**(DR.Priya Darshni Mam)**
+### 12:30-2:30 
+
+Post lunch, we had another inspiring session with Dr. Priya Darshani Ma'am on Human Values.
+She spoke about the importance of relationships, mental stability, and self-awareness in our daily lives.
+The session was interactive—many students shared their thoughts and questions, and 
+she responded with genuine guidance and advice. It was a really thoughtful and engaging seminar.
+
+## Causmic Club 
+### 2:30-3:30 
+
+To conclude the day, the Causmic Club department gave a complete introduction about their activities and
+how they support students in developing creativity and leadership. 
+They explained what kind of events they conduct throughout the year and 
+how joining the club can help students grow beyond academics. 
+It was interesting to hear that the club also collaborates with different companies and
+offers opportunities to take part in various workshops and programs.
 
 
 
