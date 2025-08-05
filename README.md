@@ -7,6 +7,7 @@
 | Day 2 | Proficiency Test, Scholarship Seminar, Food & Wellness Talk  |
 | Day 3 | Expert Lectures, Causmic Club Introduction                   |
 | Day 4 | P2P C++ Class, BEEE Intro, Human Values Talk, Club Overview  |
+| Day 5 | Chemistry Class, English Intro, Maths lecture  |
 
 
 
@@ -188,6 +189,37 @@ how joining the club can help students grow beyond academics.
 It was interesting to hear that the club also collaborates with different companies and
 offers opportunities to take part in various workshops and programs.
 
+# 🏫DAY 5:-
+ *(5th AUGUST-tuesday)*
+
+ ## 📚 Table of Contents
+1. 🧪 [Chemistry Lecture](#-chemistry-lecture)  
+2. 📘 [English Lecture](#-english-lecture)  
+3. ➕ [Mathematics Lecture](#-mathematics-lecture)
+
+
+ ##  Chemistry Lecture
+### (9:30-10:30) 
+
+The day began with a Chemistry class conducted by **Ms. Sandeep Kaur**.
+It was an introductory session where ma’am interacted with the students and asked about the basic concepts
+we had studied in Chemistry till our 12th standard. The environment was relaxed, giving us a chance to recall
+our previous knowledge and share our understanding. The session mainly focused on building a comfortable 
+space for future discussions and making sure everyone was on the same page before diving into core topics.
+
+---
+
+##  English Lecture
+### (10:30-11:30)
+
+The second session was taken by **Prof. Nisha**, who handled the English class. This was one of the most engaging parts of the day as every student introduced themselves one by one. Many of us felt nervous or hesitant while speaking, but ma’am made sure no one felt judged. She encouraged those who were struggling and gave tips on how to overcome fear while communicating. Her calm and supportive attitude made the classroom feel safe, and her guidance helped us understand how important confidence and clarity are in communication.
+
+---
+
+##  Mathematics Lecture
+### (11:30-12:30)
+
+The final lecture of the day was by **Dr. Gagandeep Kaur**, who taught Mathematics. She not only gave us a brief about the subject but also motivated us regarding our journey in college. Ma’am discussed both the challenges and opportunities we may face over the years and inspired us to maintain a positive attitude. She explained how dedication, consistency, and an open mind can help us succeed during our engineering journey. Her words left a strong impact and gave us an optimistic outlook for the upcoming semesters.
 
 
 
