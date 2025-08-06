@@ -7,9 +7,8 @@
 | Day 2 | Proficiency Test, Scholarship Seminar, Food & Wellness Talk  |
 | Day 3 | Expert Lectures, Causmic Club Introduction                   |
 | Day 4 | P2P C++ Class, BEEE Intro, Human Values Talk, Club Overview  |
-| Day 5 | Chemistry Class, English Intro, Maths lecture  |
-
-
+| Day 5 | Chemistry Class, English Intro, Maths Lecture                |
+| Day 6 | ID Card Formation, Motivational Seminar, CML Club Intro      |
 
 
 # 🏫DAY 1
@@ -221,9 +220,30 @@ The second session was taken by **Prof. Nisha**, who handled the English class. 
 
 The final lecture of the day was by **Dr. Gagandeep Kaur**, who taught Mathematics. She not only gave us a brief about the subject but also motivated us regarding our journey in college. Ma’am discussed both the challenges and opportunities we may face over the years and inspired us to maintain a positive attitude. She explained how dedication, consistency, and an open mind can help us succeed during our engineering journey. Her words left a strong impact and gave us an optimistic outlook for the upcoming semesters.
 
+ # 🏫DAY 6:-
+ *(6th AUGUST-wednesday)*
+
+ ## 📋 Table of Contents
+1. 🆔 **ID Card Formation**  
+2. ☕ **Break Time**  
+3. 🎤 **Motivational Seminar by Dr. Arvind Dhingra**  
+4. 💼 **CML Club Introduction by Dr. Lakhvir Singh**  
 
 
+## SEMINAR 
+*(DR.ARVIND DHINGRA)*
+### 1:00-2:30  
 
+Dr. Arvind Dhingra, one of the trustee members of the college, delivered an insightful and motivational lecture. He talked about the value and worth of our college premises and how it has produced many successful graduates over the years. He emphasized that our institution holds a respected name across Punjab. His words inspired us to make the most of the opportunities offered here and strive for excellence.
+
+
+## NEW CLUB INTRO CML
+*(DR.LAKHVIR SINGH)*
+### 2:30-3:30 
+
+Dr. Lakhvir Singh introduced the CML (Creative Minds League) Club, which is focused on promoting internships and skill-based learning among students. He mentioned that the club is not open for everyone but only for those who are passionate about improving their skills and becoming more interactive. A large number of students, especially from Mechanical and Civil branches, showed interest and joined the club. However, it is open to all branches.
+
+He also informed us about the **SWAYAM program**, a free online learning platform where students can access quality courses taught by IIT professors, helping us build strong knowledge and career foundations.
 
 
 
