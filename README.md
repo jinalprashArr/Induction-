@@ -1,14 +1,14 @@
-
 ## 🗓️ Induction Program Overview
 
-| Day   | Highlights                                                   |
-|--------|--------------------------------------------------------------|
-| Day 1 | Shabad Kirtan, Inaugural Ceremony, Department Visit          |
-| Day 2 | Proficiency Test, Scholarship Seminar, Food & Wellness Talk  |
-| Day 3 | Expert Lectures, Causmic Club Introduction                   |
-| Day 4 | P2P C++ Class, BEEE Intro, Human Values Talk, Club Overview  |
-| Day 5 | Chemistry Class, English Intro, Maths Lecture                |
-| Day 6 | ID Card Formation, Motivational Seminar, CML Club Intro      |
+| Day   | Highlights                                                                 |
+|--------|---------------------------------------------------------------------------|
+| Day 1 | Shabad Kirtan, Inaugural Ceremony, Department Visit                        |
+| Day 2 | Proficiency Test, Scholarship Seminar, Food & Wellness Talk                |
+| Day 3 | Expert Lectures, Causmic Club Introduction                                 |
+| Day 4 | P2P C++ Class, BEEE Intro, Human Values Talk, Club Overview                |
+| Day 5 | Chemistry Class, English Intro, Maths Lecture                              |
+| Day 6 | ID Card Formation, Motivational Seminar, CML Club Intro                    |
+| Day 7 | Student Welfare Talk, DMC Club Intro, Exam Guidance, Campus Tour, Lectures |
 
 
 # 🏫DAY 1
@@ -245,6 +245,66 @@ Dr. Lakhvir Singh introduced the CML (Creative Minds League) Club, which is focu
 
 He also informed us about the **SWAYAM program**, a free online learning platform where students can access quality courses taught by IIT professors, helping us build strong knowledge and career foundations.
 
+
+ # 🏫DAY 7:-
+ *(7th AUGUST-thursday)*
+
+## 📑Table of Contents
+1.📚 Lecture on Student Welfare (Dr. Parminder Singh)
+
+2.🎥 Digital Marketing Club Introduction (Dr. Amit Kamra)
+
+3.📝 Lecture on Conduction of Examination (Dr. Randhir Singh)
+
+4.🍱 Lunch Break & Campus Exploration
+
+5.➕ Maths Lecture (Prof. Rajbir Kaur)
+
+6.🗣️ English Lecture 
+
+ ## LECTURE ON STUDENT WELFARE
+ *(DR.PARMINDER SINGH)*
+ ### 9:30-10:30 
+
+Dr. Parminder Singh briefed us about the various facilities provided by the college, especially for students who are in need. He emphasized the importance of maintaining discipline, college decorum, and a respectful environment. He also explained rules and expectations we must follow during our stay here. Additionally, he motivated us to actively seek help from the welfare department whenever required.
+
+---
+
+## DIGITAL MARKETING CLUB
+*(DR.AMIT KAMRA)*
+### 10:30-11:30 
+
+Dr. Amit Kamra, head of the DMC Club, introduced us to the Digital Marketing Club, which works on creative content like college videos, promotional reels, and editing competitions. It provides an exciting platform for students interested in Photoshop, Canva, and other design tools. He also encouraged participation in inter-branch contests and highlighted how the club boosts our skills and builds a strong digital presence for the college.
+
+---
+
+
+## LECTURE ON CONDUCTION OF EXAMINATION 
+ *(DR.RANDHIR SINGH)*
+ ### 11:30-12:30 
+
+ This session covered examination rules and evaluation criteria. Dr. Randhir Singh explained that 75% attendance is mandatory, and club participation adds value to internal assessments. He also guided us on accessing results, exam schedules, and university updates via official portals. It was a useful and informative session for academic clarity.
+
+---
+
+ ## BREAK
+### 12:30-1:30 
+
+We had our lunch and took time to explore more of the campus. We visited the college library and found a vast collection of academic resources and books. The atmosphere was peaceful and ideal for study. The campus tour was refreshing and gave us a deeper appreciation of the college environment.
+
+---
+
+## MATHS LECTURE
+### 1:30-2:30 
+
+Prof. Rajbir Kaur interacted with us about the mathematical concepts we had learned in Class 12. It was a light but engaging session where she asked us questions and gave a preview of the syllabus ahead. She ensured everyone felt comfortable and understood the foundation for the upcoming lessons.
+
+---
+
+## ENGLISH LECTURE
+### 2:30-3:30 
+
+In this session, we were introduced to the English syllabus and marking scheme for the semester. Each student was given a chance to introduce themselves again. The professor focused on improving our confidence and communication skills while providing helpful feedback to those who were nervous. It was a positive and encouraging environment. 
 
 
 
